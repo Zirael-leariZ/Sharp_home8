@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.AssemblyInfo.cs
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\bin\Debug\net7.0\ex56LowestString.exe
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\bin\Debug\net7.0\ex56LowestString.deps.json
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\bin\Debug\net7.0\ex56LowestString.runtimeconfig.json
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\bin\Debug\net7.0\ex56LowestString.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\bin\Debug\net7.0\ex56LowestString.pdb
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\refint\ex56LowestString.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.pdb
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ex56LowestString.genruntimeconfig.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex56LowestString\obj\Debug\net7.0\ref\ex56LowestString.dll

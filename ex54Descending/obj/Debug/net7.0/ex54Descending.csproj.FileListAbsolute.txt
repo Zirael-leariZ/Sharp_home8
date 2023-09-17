@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\bin\Debug\net7.0\ex54Descending.exe
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\bin\Debug\net7.0\ex54Descending.deps.json
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\bin\Debug\net7.0\ex54Descending.runtimeconfig.json
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\bin\Debug\net7.0\ex54Descending.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\bin\Debug\net7.0\ex54Descending.pdb
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.AssemblyInfo.cs
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\refint\ex54Descending.dll
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.pdb
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ex54Descending.genruntimeconfig.cache
+C:\Users\user\Desktop\Geek\Homework\Sharp_home8\ex54Descending\obj\Debug\net7.0\ref\ex54Descending.dll
